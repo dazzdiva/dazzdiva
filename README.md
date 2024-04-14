@@ -19,15 +19,11 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  	<a href="mailto:manalishah24@gmail.com"><img src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="35px"/></a>
+    <a href="https://www.linkedin.com/in/manali-shah247/"><img src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
+    <a href="https://www.quora.com/profile/Manali-Shah-25"><img src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2613304_answers_insights_knowledge_questions_quora_icon.png" alt="deepa jarout | Quora" width="35px"/></a>
+    <a href="https://instagram.com/manali_shah__/"><img src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="deepa Jarout| Instagram" width="35px"/></a>    
+    <a href="https://www.facebook.com/dazzling.diva.ms/"><img src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5365678_fb_facebook_facebook logo_icon.png" alt="deepa Jarout| Facebook" width="35px"/></a>    
 </div>
 
  <hr/>
