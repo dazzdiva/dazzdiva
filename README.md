@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **game AI development**
      
-     I'm skilled in Java, Python, JavaScript, and SQL, with hands-on experience in Spring Boot, AWS, and Docker
+ 💻  I enjoy solving coding challenges on **LeetCode. Check out my profile [here](https://github.com/dazzdiva/dazzdiva/issues)!**
  
  💬 Ask me about **tech solution👩‍💻, life advice🤣, books📚, food🍜🍱🍕 or anything [here](https://github.com/dazzdiva/dazzdiva/issues)**
 
