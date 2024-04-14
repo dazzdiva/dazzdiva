@@ -14,7 +14,7 @@
      
  💻  I enjoy solving coding challenges on **LeetCode. Check out my profile [here](https://github.com/dazzdiva/dazzdiva/issues)!**
  
- 💬 Ask me about **tech solution👩‍💻, life advice🤣, books📚, food🍜🍱🍕 or anything [here](https://github.com/dazzdiva/dazzdiva/issues)**
+ 💬 Ask me about **tech solution👩‍💻, life advice🤣, books📚, food🍜🍱🍕 or anything [here](https://github.com/dazzdiva/dazzdiva/issues)..**
 
  </div>
  
@@ -31,8 +31,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,vscode,github,eclipse,bitbucket,git,linux,visualstudio,postman,jenkins" />
+<img src="https://skillicons.dev/icons?i=scikitlearn,mongodb,spring,hibernate,pycharm,aws,docker,microsoft" /><br>
 </div>
 
 <br/>
